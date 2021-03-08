@@ -13,6 +13,5 @@ public class WeatherService {
     public Response getForecast(String zipCode) {
         return null;
     }
+
 }
-
-
